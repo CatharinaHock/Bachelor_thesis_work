@@ -9,4 +9,4 @@
 *.out
 *.err
 /my_radmc3d-2.0
-/"jupyter notebooks"
+/jupyter \notebooks
