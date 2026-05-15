@@ -1,6 +1,4 @@
 .*\
-*[0-9].dat
-*[1-9][1-9].dat
 *.err
 *.slurm.out
 *.slurm.err
@@ -10,3 +8,6 @@
 *.err
 /my_radmc3d-2.0
 /jupyter \notebooks
+*[1-9][0-9].dat
+*[A-Za-z][1-9].dat
+!*100.dat
