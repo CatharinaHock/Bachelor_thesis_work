@@ -1,6 +1,6 @@
 .*\
 *[0-9].dat
-*[1-9][0-9].dat
+*[1-9][1-9].dat
 *.err
 *.slurm.out
 *.slurm.err
